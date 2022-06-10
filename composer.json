@@ -1,0 +1,20 @@
+{
+    "name": "ago/eav",
+    "description": "Entity Attribute Value Package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ago\\Eav\\": "src/"
+        }
+    },
+    "require": {
+    },
+    "license": "Ago Technology Development",
+    "authors": [
+        {
+            "name": "Fiachehr Pourmojib",
+            "email": "mailbox@fiachehr.ir"
+        }
+    ],
+    "minimum-stability": "dev"
+}
